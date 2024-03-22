@@ -52,20 +52,20 @@ This project aims to analyze the responses collected from an online survey of da
 
 ### Insights and Visualizations Gained
 
-- Country by Survey Takers: Visualize the distribution of survey takers by country using a bar chart or map visualization.
+- Country by Survey Takers : 261 participants from US, 73 participants from India, 40 from UK, 32 from Canada, 223 from other.
 
-- Average Salary by Job Title: Analyze the average salary of data professionals based on their job titles using a bar chart or box plot.
+- Average Salary by Job Title: Data Scientist have the highest average salary with 94k USD followed by data engineer at 65k, data architect at 64k, data analyst at 55k, database developer at 33k and other at 60k
 
-- Count of Survey Takers: Display the total count of survey takers to understand the sample size and distribution.
+- Count of Survey Takers: Total count of survey takers is 630
 
-- Average Age of Survey Takers: Calculate the average age of survey takers and visualize it using a histogram or bar chart.
+- Average Age of Survey Takers: 29.87
 
-- Happiness with Work-Life Balance: Assess the level of happiness with work-life balance among survey takers using a pie chart or stacked bar chart.
+- Happiness with Work-Life Balance: On a range of 0-10, average happiness with WLB is 5.74
 
-- Happiness with Salary: Determine the satisfaction levels with salary among survey takers using a pie chart or stacked bar chart.
+- Happiness with Salary: On a range of 0-10, happiness with salary is 4.27
 
-- Favorite Programming Language: Identify the most popular programming languages among survey takers using a bar chart or pie chart.
+- Favorite Programming Language: Python is the favourite programming language followed by R
 
-- Average Salary by Gender: Examine the average salary differences between genders using a bar chart or box plot.
+- Average Salary by Gender: Average salary for male is 55k, for female it is 53k
 
 #### By analyzing these aspects, gained some insights into the career trajectories, job satisfaction levels, and demographics of data professionals. These insights can inform decision-making processes related to career development, job satisfaction enhancement, and talent acquisition strategies in the data field.
